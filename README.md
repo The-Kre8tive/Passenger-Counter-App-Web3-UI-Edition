@@ -2,7 +2,7 @@
 
 A visually polished, futuristic passenger counter app featuring glassmorphism, dark gradients, smooth button animations, and clean layout. Built with pure HTML, CSS, and JavaScript — this project transforms a simple functionality into a beautiful Web3-style experience.
 
-![Preview](preview.png)
+![Preview](1.png)
 
 ---
 
@@ -54,7 +54,7 @@ This project is perfect to showcase:
 
 ## 📸 Screenshot
 
-![Preview Screenshot](preview.png)
+![Preview Screenshot](1.png)
 
 ---
 
